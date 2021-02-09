@@ -22,8 +22,8 @@ AutoJob/BodyFling/AutoImpact hides avatar and gang but not your name.
 Auto Perfect Block and Inf stamina is automatically on (only for running). 
 Accept a job first before using AutoJob. (Automatically deposits 2k. 2m is max bank)
 AutoSparring/AutoRoadwork will auto eat chickens/burgers/shakes. 
-Double ww and let go for inf run animation for AutoRoadwork. (**STAND NEAR GYM ENTRANCE WITHOUT ONGOING ROADWORK BEFORE DOING AUTOROADWORK. YOU ALSO HAVE TO USE IY AUTOCLICK.**)
-Character may or may not get glitched when using M to Reset or turning off AutoJob/AutoImpact but ignores combat tag. (Game doesnt load character correctly when respawn recommend waiting for 30 seconds or more before rejoining/leaving)
+Be sure to use IY Autoclick for Roadwork.
+Character may or may not get glitched when using M to Reset or turning off AutoJob/AutoRoadwork but ignores combat tag. (Game doesnt load character correctly when respawn recommend waiting for 30 seconds or more before rejoining/leaving)
 
 Other keys include: 
 
