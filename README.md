@@ -1,11 +1,11 @@
 # ㄒ卂ㄒ卂Ҝ卂丨 尺乇乃ㄖ尺几
 
-**FASTEST AUTO JOB AND AUTO ROADWORK + SCRIPT AUTOMATICALLY UPDATES VIA WEBHOST**
+**FIXED AUTO PB/AUTOJOB/AUTOROADWORK + SCRIPT AUTOMATICALLY UPDATES VIA WEBHOST**
 
 INFO/UPDATE:
 
--AutoJob/Roadwork is now insanely fast.
--Fixed Auto Meditate not anchoring you.
+-Auto PB/AutoJob/AutoRdwork is now fixed.
+-Foods no longer interrupts meditation/any tool training.
 -Auto Perfect Block with combat equipped. (15 studs distance)
 -Resetting now moves character under map before resetting.
 -AutoTrain does auto eat chicken/burger/mangoshakes for now.
